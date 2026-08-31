@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<spacerNextUpdate version="0.1.10.0" package="updates/SpacerNext-update.zip" sha256="F2B0E46137B51E97D68F93A3397EC3DB1746A52A7D80AC135F5DBDC839591DFB" commit="">
-  <notes>Aktualizacja</notes>
+<spacerNextUpdate version="0.1.11.0" package="updates/SpacerNext-update.zip" sha256="7DEBB7F9A9444FE12B269167CD636E35C61DCD53308FD1E1489E34E82C4B50F9" commit="">
+  <notes>Nowy system SPN</notes>
 </spacerNextUpdate>
