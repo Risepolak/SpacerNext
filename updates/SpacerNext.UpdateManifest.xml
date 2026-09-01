@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<spacerNextUpdate version="0.1.12.0" package="updates/SpacerNext-update.zip" sha256="DB583C28D517D00D65C5AF82A69C6F000EA6540C5FEA8A8460C4D8803A80A693" commit="">
-  <notes>Poprawiony zapis SPN</notes>
+<spacerNextUpdate version="0.1.13.0" package="updates/SpacerNext-update.zip" sha256="9D64106DF1990B05CCDDA4502A2C8126BFD68CFE8D1281CEB5D5EEBF40A38EA7" commit="">
+  <notes>Fizyka+</notes>
 </spacerNextUpdate>
