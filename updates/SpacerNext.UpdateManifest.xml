@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<spacerNextUpdate version="0.1.17.0" package="updates/SpacerNext-update.zip" sha256="272865526A8929DCE2E193ADB12DC48B51B2FB345BEEDD52B440F03468C9C14A" commit="">
-  <notes>Update</notes>
+<spacerNextUpdate version="0.1.18.0" package="updates/SpacerNext-update.zip" sha256="7FD94365E57FE719574A978E2A5168A8703D640B6035FC901334AA2AB074345A" commit="">
+  <notes>Language support</notes>
 </spacerNextUpdate>
