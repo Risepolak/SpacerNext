@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<spacerNextUpdate version="0.1.18.0" package="updates/SpacerNext-update.zip" sha256="7FD94365E57FE719574A978E2A5168A8703D640B6035FC901334AA2AB074345A" commit="">
-  <notes>Language support</notes>
+<spacerNextUpdate version="0.1.19.0" package="updates/SpacerNext-update.zip" sha256="0A8B0C2583EB54A6E613EEBA65A2FD5084E0F09C1D922872F7DDC6F838712322" commit="">
+  <notes>PFX Menager</notes>
 </spacerNextUpdate>
