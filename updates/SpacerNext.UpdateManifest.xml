@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<spacerNextUpdate version="0.1.19.0" package="updates/SpacerNext-update.zip" sha256="0A8B0C2583EB54A6E613EEBA65A2FD5084E0F09C1D922872F7DDC6F838712322" commit="">
-  <notes>PFX Menager</notes>
+<spacerNextUpdate version="0.1.20.0" package="updates/SpacerNext-update.zip" sha256="C78620B6FE0B8F5815D3B6C0C5D611EC5CBDB1074428A7AF187DA73A1F7EF161" commit="">
+  <notes>Poprawki edytora cutscenek, kamer, NPC i publikatora aktualizacji.</notes>
 </spacerNextUpdate>
